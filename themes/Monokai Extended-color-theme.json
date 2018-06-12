@@ -93,7 +93,6 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"fontStyle": "underline",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -101,7 +100,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "italic",
 				"foreground": "#a6e22e"
 			}
 		},

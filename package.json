@@ -3,7 +3,7 @@
     "displayName": "Monokai Extended",
     "description": "A theme based on the Sublime Text Soda Monokai theme with additional syntax highlighting.",
     "version": "0.0.1",
-    "publisher": "fgimian",
+    "publisher": "Fotis Gimian",
     "engines": {
         "vscode": "^1.24.0"
     },

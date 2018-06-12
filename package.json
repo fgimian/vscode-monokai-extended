@@ -1,0 +1,22 @@
+{
+    "name": "monokai-extended",
+    "displayName": "Monokai Extended",
+    "description": "A theme based on the Sublime Text Soda Monokai theme with additional syntax highlighting.",
+    "version": "0.0.1",
+    "publisher": "fgimian",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Extended",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Extended-color-theme.json"
+            }
+        ]
+    }
+}

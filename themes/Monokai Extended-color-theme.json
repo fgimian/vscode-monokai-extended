@@ -85,7 +85,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#66d9ef"
 			}
 		},
@@ -93,7 +93,7 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"fontStyle": " underline",
+				"fontStyle": "underline",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -117,7 +117,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#fd971f"
 			}
 		},
@@ -384,7 +384,7 @@
 			"name": "LESS mixins",
 			"scope": "entity.other.less.mixin",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#e0fdce"
 			}
 		},
@@ -486,7 +486,7 @@
 			"name": "JS: Storage Type",
 			"scope": "storage.type.js",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#66d9ef"
 			}
 		},
@@ -502,7 +502,7 @@
 			"name": "JS: Function",
 			"scope": "storage.type.function.js",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#66d9ef"
 			}
 		},
@@ -525,7 +525,7 @@
 				"variable.language.prototype.js"
 			],
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#66d9ef"
 			}
 		},
@@ -1046,7 +1046,7 @@
 			"name": "Markup: Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"fontStyle": " italic",
+				"fontStyle": "italic",
 				"foreground": "#66d9ef"
 			}
 		},

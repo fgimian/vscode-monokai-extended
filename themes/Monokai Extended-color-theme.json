@@ -1305,7 +1305,8 @@
 		"editorIndentGuide.activeBackground": "#767771",
 		"editorLineNumber.foreground": "#8d8d8a",
 		"statusBar.background": "#2c2c2c",
-		"statusBar.foreground": "#909090"
+		"statusBar.foreground": "#909090",
+		"titleBar.activeBackground": "#393939"
 	},
 	"name": "Monokai Extended"
 }

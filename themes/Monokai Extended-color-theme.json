@@ -990,7 +990,8 @@
 			"name": "Markdown: heading",
 			"scope": [
 				"markdown.heading",
-				"markup.heading | markup.heading entity.name",
+				"markup.heading",
+				"markup.heading entity.name",
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
@@ -1018,7 +1019,6 @@
 			"name": "Markup: underline",
 			"scope": "markup.underline",
 			"settings": {
-				"fontStyle": "underline",
 				"foreground": "#a6e22e"
 			}
 		},
@@ -1053,7 +1053,6 @@
 			"name": "Markdown: Link",
 			"scope": "string.other.link.title.markdown",
 			"settings": {
-				"fontStyle": "underline",
 				"foreground": "#66d9ef"
 			}
 		},

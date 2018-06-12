@@ -1303,6 +1303,7 @@
 		"editor.selectionBackground": "#444444",
 		"editorIndentGuide.activeBackground": "#767771",
 		"editorLineNumber.foreground": "#8d8d8a",
+		"editorRuler.foreground": "#404040",
 		"statusBar.background": "#2c2c2c",
 		"statusBar.foreground": "#909090",
 		"titleBar.activeBackground": "#393939"

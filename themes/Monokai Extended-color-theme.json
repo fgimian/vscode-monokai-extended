@@ -1301,7 +1301,9 @@
 		"editor.foreground": "#f8f8f2",
 		"editorWhitespace.foreground": "#3b3a32",
 		"editor.lineHighlightBackground": "#333333",
-		"editor.selectionBackground": "#444444"
+		"editor.selectionBackground": "#444444",
+		"statusBar.background": "#2c2c2c",
+		"statusBar.foreground": "#909090"
 	},
 	"name": "Monokai Extended"
 }

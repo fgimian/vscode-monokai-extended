@@ -1302,6 +1302,7 @@
 		"editorWhitespace.foreground": "#3b3a32",
 		"editor.lineHighlightBackground": "#333333",
 		"editor.selectionBackground": "#444444",
+		"editorIndentGuide.activeBackground": "#767771",
 		"statusBar.background": "#2c2c2c",
 		"statusBar.foreground": "#909090"
 	},
